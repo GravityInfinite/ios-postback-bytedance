@@ -1,0 +1,6 @@
+framework module GravityPostbackByteDance {
+  umbrella header "GravityPostbackByteDance.h"
+  export *
+
+  module * { export * }
+}
